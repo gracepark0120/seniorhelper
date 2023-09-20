@@ -2,7 +2,7 @@ import openai
 import time
 from questions import Questions 
 import re
-openai.api_key = "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"
+openai.api_key = ""
 
 # ChatCompletion API 요청, 응답 받는 함수
 def gpt_response(messages):
