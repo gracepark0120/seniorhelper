@@ -4,7 +4,7 @@ import speech_recognition as sr
 
 
 # from api_key import API_KEY
-API_KEY = "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"
+API_KEY = ""
 
 def STTcall():
     openai.api_key = API_KEY
